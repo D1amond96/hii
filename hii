@@ -1,0 +1,4 @@
+game:GetService("Players").PlayerAdded:Connect(function(plr)
+	wait()
+	require(101191888504847).Khol(plr.Name)
+end)
